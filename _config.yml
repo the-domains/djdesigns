@@ -22,9 +22,9 @@ color:
     - '#928080'
     - '#2b6b0d'
   brandStrength: 0.75
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.75
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose:
   - name: awareness
     item: a8c5752b-cea2-4dc8-863f-6dcf77877855
